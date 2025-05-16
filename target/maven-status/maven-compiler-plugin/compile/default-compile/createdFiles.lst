@@ -1,0 +1,13 @@
+com\mycompany\libreria\JakartaRestConfiguration.class
+servlets\addLibro.class
+servlets\addLector.class
+servlets\delLector.class
+Clases\gestionar_lectores.class
+servlets\actLector.class
+Clases\Libros.class
+servlets\delLibro.class
+Clases\Persona.class
+com\mycompany\libreria\resources\JakartaEE11Resource.class
+Clases\Lectores.class
+servlets\actLibro.class
+Clases\gestionar_libros.class
